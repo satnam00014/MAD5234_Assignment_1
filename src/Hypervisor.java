@@ -18,7 +18,8 @@ public class Hypervisor {
     }
     
     private static void startupApplication(){
-        
+        //TODO
+        //Write code to call object of Enrollment to enrollCohort here
     }
     private static void endApplication(){
         
